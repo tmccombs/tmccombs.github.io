@@ -1,2 +1,9 @@
 theme: jekyll-theme-cayman
-title: Tmccombs Blog
+title: Tmccombs
+description: Blog for tmccombs
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
